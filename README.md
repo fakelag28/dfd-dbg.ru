@@ -1,7 +1,8 @@
 # dfd-dbg.ru
-Website with its own control panel designed to replace outdated Google Tables and Google Forms
-⚠️ This repository currently contains only index.php and navbar.php since the rest of the files were not edited by me for public publication (I'm afraid of the public opinion about the shitness of my code)
-Link - https://dfd-dbg.ru/
+Website with its own control panel designed to replace outdated Google Tables and Google Forms.<br>
+⚠️ This repository currently contains only index.php and navbar.php since the rest of the files were not edited by me for public publication (I'm afraid of the public opinion about the shitness of my code).<br>
+
+**Link - https://dfd-dbg.ru/**
 
 ## Images
 <div class="row">
